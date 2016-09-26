@@ -430,7 +430,7 @@
       "displayName": "Git Repository URL",
       "description": "The URL of the repository with your application source code.",
       "required": true,
-      "value": "https://github.com/openshift/cakephp-ex.git"
+      "value": "https://github.com/m4ttyw/cakephp-ex.git"
     },
     {
       "name": "SOURCE_REPOSITORY_REF",
